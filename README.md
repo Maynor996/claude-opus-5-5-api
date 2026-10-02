@@ -1,3 +1,5 @@
+> 本文已迁移：[Claude Opus 5.5 API 国内中转调用指南：价格、教程与代码（2026）](https://docs.tryallapi.com/claude-opus-5-5-api/)
+
 # Claude Opus 5.5 API 国内中转调用指南（2026年最新）
 
 > 作者：MaynorAI｜首发：2026-10-01｜最后更新：2026-10-01
